@@ -5,7 +5,7 @@ title: Official Rooms
 
 There are "rooms" which are virtual areas dedicated to particular cyber security topics.
 
-The rooms we have developed and think work completing are as follows:
+The rooms we have developed and think worth completing are as follows:
 
 1. [How to use Burp Suite](https://tryhackme.com/room/learnburp)
 2. [Learning Reverse Engineering](https://tryhackme.com/room/reverseengineering)
