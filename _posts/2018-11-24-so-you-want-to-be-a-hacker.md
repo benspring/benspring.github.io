@@ -32,3 +32,5 @@ few we have in mind are
 - Creating your own Crypto-Currency (doge coin)
 - Capture the Flags & Competitions
 - RFID Cloning
+
+If you have any ideas for rooms we should create please let us know in the comments.
