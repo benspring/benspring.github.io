@@ -22,6 +22,7 @@ body {
   font-size: 18px;
   color: #515151;
   line-height: 1.75rem;
+  margin: 0;
 }
 
 @media (max-width: 30em) {
@@ -97,6 +98,27 @@ hr {
   Masthead
 */
 
+.thm {
+  background-color: #343c42;
+  width:100%;
+  margin: 0;
+  height: 5.5em;
+  margin-bottom: 1.5em;
+}
+
+.logo {
+  float: left;
+	filter: brightness(0) invert(1);
+	margin-left: 3em;
+  margin-top: .6em;
+}
+
+@media only screen and (max-width: 1100px) {
+    .logo {
+      display: none;
+    }
+}
+
 .masthead {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
@@ -105,13 +127,13 @@ hr {
 }
 
 .masthead a:hover {
-  color:black;
+  opacity: 1;
 }
 
 .masthead-title a {
   font-size: 2rem;
   text-decoration: none;
-  color: #505050;
+  opacity: 0.75;
 }
 
 .masthead-subtitle {

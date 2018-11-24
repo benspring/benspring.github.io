@@ -1,18 +1,15 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: TryHackMe Who?
 ---
 
-Test
+TryHackMe is an online platform that takes the pain out of teaching cybersecurity
+by allowing teachers to easily managetheir material and setup using the cloud.
+We make it a comfortable experience for students to learn by designing prebuilt
+courses, avoiding the hassle of setting everything. Perfect for CTFs, Workshops,
+Assessments or Training.
 
-### Getting Started
+We also love to do anything Cyber Security related. From independent research to
+making our own courses on the [main site](https://tryhackme.com/).
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
-
-### Example Content
-
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
-
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+For much more information please visit [TryHackMe.com](https://tryhackme.com/)
