@@ -12,7 +12,7 @@ The rooms we have developed and think worth completing are as follows:
 3. [Cracking Hashes Challenges](https://tryhackme.com/room/crackthehash)
 4. [Basic Penetration Testing](https://tryhackme.com/room/basicpentesting)
 
-We have an official [TryHackMe](https://tryhackme.com/room/tryhackme) room too
+We have an official [TryHackMe room](https://tryhackme.com/room/tryhackme) too
  which goes through tutorials on using TryHackMe.
 
 We are still in the process of creating rooms and tasks. If there are good rooms
