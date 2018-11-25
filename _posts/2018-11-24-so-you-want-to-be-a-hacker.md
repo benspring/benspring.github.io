@@ -27,7 +27,7 @@ pentration testing in any sense, is to practise loads, read a lot and understand
 concepts/process behind what you are testing/probing. The good news is, TryHackMe will
 try its best to develop rooms and share our knowledge as much as possible.
 
-As well as developing cyber security couses, we will be releasing other fun rooms. A
+As well as developing cyber security courses, we will be releasing other fun rooms. A
 few we have in mind are
 - Creating your own Crypto-Currency (doge coin)
 - Capture the Flags & Competitions
