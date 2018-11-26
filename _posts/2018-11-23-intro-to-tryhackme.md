@@ -18,6 +18,17 @@ making our own courses on the [main site](https://tryhackme.com/).
 
 For much more information please visit [TryHackMe.com](https://tryhackme.com/)
 
+## Update 2:
+
+Some of you may have had trouble if you are on a Windows operating system. We have
+now fixed the OpenVPN and loading bugs. Everything should work for Windows and Linux
+systems. Sorry for the trouble.
+
+On the otherhand, we released a new room that contains using popular tools such as nmap,
+ sqlmap, dirbuster and port knocking. As always, there is no downloading. Deploy it directly
+ from the cloud. Can you root this machine? [LordOfTheRoot](https://tryhackme.com/room/lordoftheroot)
+
+
 ## Update:
 
 Our initial launch got **62** sign ups, which is awesome! However, we keep getting the
