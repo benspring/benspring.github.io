@@ -7,12 +7,11 @@ tags: [cybersecurity,training,learning]
 image: h4ck3r.png
 ---
 
-Well, that term is absolutely ridiculous. The term "hacker" has become so losely used and is not something I associate
+The term "hacker" has become so losely used and is not something I associate
 anyone with. You don't hear [Kevin Mitnick](https://en.wikipedia.org/wiki/Kevin_Mitnick)
-reference himself as a hacker? A few words of the wise, nothing is unhackable ([*cough @ John McAfee*](https://www.cnet.com/news/john-mcafees-unhackable-crypto-wallet-allegedly-hacked-a-week-after-challenge/)).  In my opinion,
-cyber security is broken up into many parts.
+reference himself as a hacker?
 
-Break down of cyber security areas
+Cyber Security is broken up into many parts:
 - Web Application
 - Infrastructure
 - Internet Of Things (IoT)

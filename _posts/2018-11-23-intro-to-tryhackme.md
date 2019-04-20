@@ -4,19 +4,13 @@ title: "TryHackMe Who?"
 author: "Ben"
 categories: company
 tags: [company,training]
-image: mrrobot.png
+image: crestcon2019-2.jpg
 ---
 
-TryHackMe is an online platform that takes the pain out of teaching cybersecurity
-by allowing teachers to easily managetheir material and setup using the cloud.
-We make it a comfortable experience for students to learn by designing prebuilt
-courses, avoiding the hassle of setting everything. Perfect for CTFs, Workshops,
-Assessments or Training.
+TryHackMe takes the pain out of learning and teaching Cybersecurity. Our platform makes it a comfortable experience to learn by designing prebuilt courses which include virtual machines (VM) hosted in the cloud ready to be deployed. This avoids the hassle of downloading and configuring VM's. Our platform is perfect for CTFs, Workshops, Assessments or Training.
 
 We also love to do anything Cyber Security related. From independent research to
 making our own courses on the [main site](https://tryhackme.com/).
-
-For much more information please visit [TryHackMe.com](https://tryhackme.com/)
 
 ## Update 2:
 
